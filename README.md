@@ -1,2 +1,3 @@
-# sobhati
-Electronic rosary for glorifying (tasbih), exalting (takbir), and praising (hamd) God.
+# سبحتي — المسبحة الإلكترونية
+شغّل `index.html` مباشرة في المتصفح، أو من الطرفية: `python3 -m http.server 8000` ثم افتح http://localhost:8000
+اختصارات: مسافة / Enter / + للزيادة، R لإعادة الضبط.
